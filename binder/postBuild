@@ -1,3 +1,4 @@
 jupyter labextension install jupyterlab-drawio
 jupyter labextension install @jupyter-widgets/jupyterlab-manager
 jupyter labextension install @jupyterlab/latex
+jupyter labextension install @jupyterlab/toc
