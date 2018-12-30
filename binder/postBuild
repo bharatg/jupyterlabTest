@@ -1,3 +1,2 @@
-
 jupyter labextension install jupyterlab-drawio
-jupyter nbconvert Jupyter\ Slides.ipynb --to slides --post serve
+jupyter nbextension enable --py widgetsnbextension
