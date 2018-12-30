@@ -1,10 +1,16 @@
 {
-    "type": "Feature",
-    "geometry": {
-        "type": "Point",
-        "coordinates": [-118.4563712, 34.0163116]
-    },
-    "properties": {
-        "name": "Clover Park"
-    }
+  "type": "Feature",
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [{
+      "type": "Point",
+      "coordinates": [0, 0]
+    }, {
+      "type": "LineString",
+      "coordinates": [[0, 0], [1, 0]]
+    }]
+  },
+  "properties": {
+    "name": "null island"
+  }
 }
